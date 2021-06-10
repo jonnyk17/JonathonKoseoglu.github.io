@@ -1,13 +1,13 @@
 #If you have worked on relevant projects talk about them here
 
-- name: Project 1
-  description: A few sentences describing your project.
+- name: Bears, Berries and Tourists
+  description: Made a simiulator that simulated the movement of bears and tourists. As bears and tourist would leave more would enter at predetermined locations. Locations were stored in an array. Berries were scattered throughout the grid. When a bear would eat 30 berries it fell asleep. Bears would move until they walked out of bounds. Tourist walked for 5 turns. If they were within 3 adjacent spots away from they would run away. If they didn't see a bear in 5 turns they would get bored and leave. Done in Python
 
-- name: Project 2
-  description: A few sentences describing your project.
+- name: Battleship
+  description: Designed a one player battleship game with a simplistic AI design. The AI would shoot at ships randomly until one was hit. It would then check adjacent spots until it found another hit and move in that direction. Done in Java using the Java swing class.
 
-- name: Project 3
-  description: A few sentences describing your project.
+- name: Deck of Cards 
+  description: Dealt, split, sorted, reverse sorted and shuffled a deck of cards using a doubly linked list of node pointers to keep track of the cards. Done in C++. 
 
-- name: Project 4
-  description: A few sentences describing your project.
+- name: Map of Campus
+  description: Parsed a file containing loctaions, name and id number of buildings and intersections on campus. The program would take in input as (r, m, b). m would display a menu of the command instructions, b would list all the buildings and r would find the shortest route from one building to another using dijkstra's algorithm. Done in Java. 

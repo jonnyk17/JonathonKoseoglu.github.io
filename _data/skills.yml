@@ -1,36 +1,21 @@
-header: Say something about what you're good at
+header: I got some pretty dope skills
 
-subheader: Give some more context
+subheader: Read below for dope skills
 
 skill_list:
-  - name: Skill 1
-    description: A quick sentence or two describing your skill
+  - name: Running
+    description: I can run far
 
-  - name: Skill 2
-    description: A quick sentence or two describing your skill
+  - name: Running but fast
+    description: I can run pretty fast. I'm not slow I guess
 
-  - name: Skill 3
-    description: A quick sentence or two describing your skill
+  - name: Code
+    description: I coded a few games in my day. I think they are pretty cool.
 
 #If you have certifications, talk about them here
 certifications:
-  - name: Certification 1
+  - name: Certified Beauty
     topics:
-      - Topic 1A
-      - Topic 1B
-      - Topic 1C
-      - Topic 1D
-
-  - name: Certification 2
-    topics:
-      - Topic 2A
-      - Topic 2B
-      - Topic 2C
-      - Topic 2D
-
-  - name: Certification 3
-    topics:
-      - Topic 3A
-      - Topic 3B
-      - Topic 3C
-      - Topic 3D
+      - Hide 
+      - your
+      - mom
